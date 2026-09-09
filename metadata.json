@@ -1,0 +1,6 @@
+{
+  "name": "CoinScan AI",
+  "description": "Aplicativo profissional de identificação e avaliação numismática de moedas raras por inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
